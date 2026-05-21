@@ -1,1 +1,26 @@
-Contenido del archivo 9
+Contenido del archivo 9f
+<style>
+    sdfsdf {
+        position: relative;
+    }
+</style>
+
+<sdfsdf data-spy="scroll" data-target="#navId">
+    
+    <div id="navId">
+        <ul class="nav nav-tabs" role="tablist">
+            
+        </ul>
+    </div>
+    
+</sdfsdf>
+jfeijfeifji
+
+<script>
+    $('sdfsdf{1:div|body}').scrollspy({
+        target: '#navId'
+    });
+</script>
+sdfsdfef
+e
+feg
